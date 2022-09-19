@@ -1,0 +1,9 @@
+# Presentación
+## Problemas de Diagramas de Flujo de Datos
+### Ejercicio 5.  ESCRIBA UN DFD QUE DIGA SI UN NUMERO ES PAR O IMPAR
+#### 1.1 Análisis
+Se asignan variables
+#### n= numero entero
+#### n%2==0, esta funcion nos arroja si laq division tiene o no tiene residuo
+#### 1.2 Digrama de Flujo de Datos
+
